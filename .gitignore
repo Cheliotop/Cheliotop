@@ -1,0 +1,5 @@
+SETUP_NOTES.md
+.DS_Store
+.env
+.env.*
+*.log
