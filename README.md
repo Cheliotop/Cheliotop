@@ -1,33 +1,44 @@
 # Sergio Hoeckh
 
-Owner-operator turned AI workflow operations builder based in Paraguay.
+AI workflow operations builder with an owner-operator background.
 
-I use AI tools, documentation, and lightweight technical systems to turn messy business processes into clear workflows, SOPs, trackers, prototypes, and usable operating systems.
+I use AI tools, documentation, lightweight automation, and structured handoffs to turn unclear business processes into usable workflows and systems. My background is practical operations: I founded and ran a concrete/construction business in Paraguay, then shifted into AI-enabled workflow work after realizing physical/manual work was not a sustainable long-term path.
 
-My background is practical operations: I founded and ran a concrete/construction business, handling clients, suppliers, workers, equipment, logistics, scheduling, and execution under real pressure. I later shifted into AI-enabled workflow work because physical/manual work was not a sustainable long-term path.
-
-## What I work on
+## What I focus on
 
 - AI workflow operations
 - AI-assisted documentation and SOPs
-- CRM / lead tracking systems
-- Lightweight automation support
-- Research and synthesis workflows
+- CRM and lead-tracking systems
+- Research, synthesis, and structured handoffs
 - QA and verification of AI outputs
 - German-language AI quality review
-- Small web/app prototypes using AI-assisted coding
+- Lightweight web/app prototypes with AI-assisted coding
 
-## Portfolio themes
+## Proof of work
 
-- Agentic operations workspace with AI-agent handoffs and reusable skills
-- AI agency CRM/proposal/prototype system
-- Accounting/XML review workflow with state models and tests
-- German teaching/curriculum platform
-- Mobile/backend monitoring-system project
+My main public portfolio is here:
+
+[AI Workflow & Operations Portfolio](https://github.com/Cheliotop/ai-workflow-portfolio)
+
+It includes public-safe case studies covering:
+
+- an agentic operations workspace with AI-agent handoffs
+- an AI agency operations system with CRM and proposal workflows
+- an accounting/XML review workflow with state models and tests
+- a German teaching/curriculum platform
+- a mobile/backend monitoring-system project
+
+## How I work
+
+I am strongest where the task is practical and unclear: understand the business problem, break it into parts, use AI and technical tools carefully, document the process, verify the result, and make the work usable for another person.
+
+My role in projects is usually workflow direction, product thinking, AI-assisted implementation, documentation, testing criteria, and verification. I care more about useful systems than impressive-looking complexity.
 
 ## Tools I use
 
-ChatGPT · Claude · Codex · OpenCode · Hermes Agent · Markdown · Git/GitHub · HTML/CSS/JavaScript · React/Next.js basics · Supabase · Vercel
+AI tools: ChatGPT, Claude, Codex, OpenCode, Hermes Agent  
+Workflow/documentation: Markdown, SOPs, checklists, project handoffs, CRM-style trackers  
+Technical: Git/GitHub, HTML/CSS/JavaScript, React/Next.js basics, Supabase, Vercel
 
 ## Contact
 
