@@ -8,9 +8,9 @@ I turn unclear operational problems into structured workflows, documented system
 
 [**Open my AI Workflow & Operations Portfolio →**](https://github.com/Cheliotop/ai-workflow-portfolio)
 
-- **ContaBot:** deterministic XML review workflow, explicit state model, 1,059 verified tests, and a [runnable public mini-demo](https://github.com/Cheliotop/ai-workflow-portfolio/tree/main/demo/contabot-mini)
-- **German Teaching Platform:** curriculum, student, lesson-generation, review, and export workflows; production build generated 53 pages
-- **PHC Drilling Monitoring System:** field app for drilling crews — 9 automated end-to-end mobile test flows, 5 signed Android releases in 9 days, nightly production backup automation, and a staged 6-pass audit and hardening program
+- **PHC Drilling Monitoring System:** field app that replaced paper shift reports for drilling crews — works offline at the well site, 9 automated end-to-end mobile test flows, 5 signed Android releases in 9 days, nightly verified production backups, and a staged 6-pass audit and hardening program
+- **Multi-Language Teaching Platform:** lesson planning, student tracking, and exercise generation for 1-on-1 language tutoring — complete A1–B2 German curriculum, one engine serving 20 languages including non-Latin scripts
+- **Runnable proof:** a [small review-workflow demo](https://github.com/Cheliotop/ai-workflow-portfolio/tree/main/demo/review-workflow-mini) you can execute in under a minute — fake data, standard library only, tested in CI
 
 ## What I bring
 
