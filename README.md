@@ -10,7 +10,7 @@ I turn unclear operational problems into structured workflows, documented system
 
 - **ContaBot:** deterministic XML review workflow, explicit state model, 1,059 verified tests, and a [runnable public mini-demo](https://github.com/Cheliotop/ai-workflow-portfolio/tree/main/demo/contabot-mini)
 - **German Teaching Platform:** curriculum, student, lesson-generation, review, and export workflows; production build generated 53 pages
-- **PHC Monitoring System:** mobile/backend coordination, Android release artifacts, QA planning, and operator handoff
+- **PHC Drilling Monitoring System:** field app for drilling crews — 9 automated end-to-end mobile test flows, 5 signed Android releases in 9 days, nightly production backup automation, and a staged 6-pass audit and hardening program
 
 ## What I bring
 
