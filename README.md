@@ -9,7 +9,7 @@ I turn unclear operational problems into structured workflows, documented system
 [**Open my AI Workflow & Operations Portfolio →**](https://github.com/Cheliotop/ai-workflow-portfolio)
 
 - **PHC Drilling Monitoring System:** field app that replaced paper shift reports for drilling crews — works offline at the well site, 9 automated end-to-end mobile test flows, 5 signed Android releases in 9 days, nightly verified production backups, and a staged 6-pass audit and hardening program
-- **Multi-Language Teaching Platform:** lesson planning, student tracking, and exercise generation for 1-on-1 language tutoring — complete A1–B2 German curriculum, one engine serving 20 languages including non-Latin scripts
+- **Multi-Language Teaching Platform:** lesson planning, student tracking, and exercise generation for 1-on-1 language tutoring — 140-lesson A1–B2 curriculum spine, Row Level Security on 25 of 25 tables with zero findings from Supabase's security advisor, one engine serving 20 languages including non-Latin scripts
 - **Runnable proof:** a [small review-workflow demo](https://github.com/Cheliotop/ai-workflow-portfolio/tree/main/demo/review-workflow-mini) you can execute in under a minute — fake data, standard library only, tested in CI
 
 ## What I bring
